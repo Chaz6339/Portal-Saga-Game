@@ -1,0 +1,3 @@
+- Project made with Solomon Bell
+- Follow the prompts and collect the pieces in order to rebuild your ship!
+- Requires beautifulsoup download for python
